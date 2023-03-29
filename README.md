@@ -12,7 +12,6 @@
 
 <h2 align="center" style="color: #1F222E;">Completed projects</h2>
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulpp78&repo=Le-quart-de-singe&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/paulpp78/Le-quart-de-singe) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulpp78&repo=My_functions&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/paulpp78/My_functions) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulpp78&repo=The_Cryptographer&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/paulpp78/The_Cryptographer)
 
 
