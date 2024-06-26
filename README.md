@@ -89,7 +89,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/paulpp78/gestionMediatheque">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulpp78&repo=gestionMediatheque&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="gestionMediatheque">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulpp78&repo=ManaLib&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Library Management">
   </a>
 </p>
 
