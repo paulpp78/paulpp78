@@ -81,11 +81,11 @@
   </a>
   &nbsp;
   <a href="https://github.com/paulpp78/appMedicFront">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulpp78&repo=appMedicFront&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="appMedicFront">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulpp78&repo=AppMedicFront&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="AppMedicFront">
   </a>
   &nbsp;
   <a href="https://github.com/paulpp78/appMedicBack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulpp78&repo=appMedicBack&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="appMedicBack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulpp78&repo=AppMedicBack&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="AppMedicBack">
   </a>
   &nbsp;
   <a href="https://github.com/paulpp78/gestionMediatheque">
