@@ -10,7 +10,7 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">A DevOps Apprentice from France. I study at IUT Paris Rives de Seine and work at WeVii</h3>
+<h3 align="center">A Inginer DevOps Apprentice from France. I study at Esiea and work at WeVii</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paulpp78&label=Profile%20views&color=0e75b6&style=flat" alt="paulpp78" />
